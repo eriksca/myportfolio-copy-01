@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Erik'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      I'm a young XR developer from Turin, Italy. Here's my portfolio
   - type: section_content
     title: About
     section_id: about
