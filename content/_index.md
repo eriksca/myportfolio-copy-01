@@ -11,7 +11,7 @@ sections:
     title: About
     section_id: about
     content: >-
-      Young developer based in Turin, Italy. Currently studying @FITSTIC  
+      Young developer based in Turin, Italy. Currently studying @FITSTIC as Mixed Re 
     actions:
       - type: action
         label: Contact Me
