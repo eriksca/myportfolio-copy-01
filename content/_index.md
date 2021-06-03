@@ -30,7 +30,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'Erik Scantamburlo '
-  description: 'Official webpage '
+  description: 'Erik Scantamburlo''s Official webpage '
   extra:
     - name: 'og:type'
       value: website
