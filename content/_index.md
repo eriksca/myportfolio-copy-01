@@ -30,7 +30,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'Erik Scantamburlo '
-  description: The preview of the Fresh theme
+  description: 'XR developer '
   extra:
     - name: 'og:type'
       value: website
