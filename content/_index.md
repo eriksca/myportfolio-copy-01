@@ -30,7 +30,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'Erik Scantamburlo '
-  description: 'XR developer '
+  description: 'XR developer. Games, Architecture, '
   extra:
     - name: 'og:type'
       value: website
