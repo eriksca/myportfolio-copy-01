@@ -11,7 +11,7 @@ sections:
     title: About
     section_id: about
     content: >-
-      Young developer 
+      Young developer based in Turin, Italy. Currently studying  
     actions:
       - type: action
         label: Contact Me
