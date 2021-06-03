@@ -11,7 +11,8 @@ sections:
     title: About
     section_id: about
     content: >-
-      Young developer based in Turin, Italy. Currently studying @FITSTIC as Mixed Reality Technician. I'm interested in Architecture,  
+      Young developer based in Turin, Italy. Currently studying @FITSTIC as
+      Mixed Reality Technician. I'm interested in Architecture,  
     actions:
       - type: action
         label: Contact Me
@@ -28,7 +29,7 @@ sections:
         style: button
 seo:
   type: stackbit_page_meta
-  title: Stackbit Fresh Theme
+  title: 'Erik Scantamburlo '
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
