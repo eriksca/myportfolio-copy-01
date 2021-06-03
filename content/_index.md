@@ -11,7 +11,7 @@ sections:
     title: About
     section_id: about
     content: >-
-      
+      Young developer 
     actions:
       - type: action
         label: Contact Me
